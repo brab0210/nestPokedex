@@ -30,7 +30,7 @@ docker-compose up -d
 7. Ejecutar la aplicación en dev:
 
 ```
-yarn start:dev // npm start:dev
+yarn start:dev **or** npm start:dev
 ```
 
 8. Reconstruir la base de datos con la semilla
