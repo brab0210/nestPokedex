@@ -1,0 +1,10 @@
+html,
+body {
+  padding: 20px;
+  background-color: #ccc;
+}
+
+h1 {
+  font: 20px;
+  color: aliceblue;
+}
